@@ -25,25 +25,25 @@ De manera independiente estoy desarrollando un sistema integral para la gestión
 `JavaScript` · `C#` · `C++` · `Java` · `Python` · `SQL`
 
 **Frontend**  
-HTML · CSS · JavaScript (vanilla) · React.js · DHTMLX · Stimulsoft
+`HTML` · `CSS` · `JavaScript (vanilla)` · `React.js` · `DHTMLX` · `Stimulsoft`
 
 **Backend**  
-Node.js · ASP.NET (C#) · C++ Builder · Java (NetBeans) · Python · Laravel (medio)
+`Node.js` · `ASP.NET (C#)` · `C++ Builder · Java (NetBeans)` · `Python` · `Laravel (medio)`
 
 **Mobile/Desktop**  
-Apache Cordova · WinForms · Kotlin (básico)
+`Apache Cordova` · `WinForms` · `Kotlin (básico)`
 
 **Bases de Datos**  
-SQL Server · PostgreSQL · SQLite · MySQL
+`SQL Server` · `PostgreSQL` · `SQLite` · `MySQL`
 
 **DevOps / CI/CD**  
-Git · GitHub · GitHub Actions · TortoiseSVN · IIS
+`Git` · `GitHub` · `GitHub Actions` · `TortoiseSVN` · `IIS`
 
 **Diseño y multimedia**  
-Photoshop · Illustrator · Autodesk Maya
+`Photoshop` · `Illustrator` · `Autodesk Maya`
 
 **Metodologías**  
-Scrum · Pruebas unitarias · Documentación técnica · Pipelines CI/CD
+`Scrum` · `Pruebas unitarias` · `Documentación técnica` · `Pipelines CI/CD`
 
 ---
 
